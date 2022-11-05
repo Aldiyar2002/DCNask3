@@ -1,0 +1,1 @@
+Hello, it's a Aldiyar Bukhin. I am writing and executing this file using hadoop. Really difficult stuff.
